@@ -4,3 +4,5 @@ pppfppp
 фывфв
 +Name
 aaaaa
+
+add a conflict branch file
